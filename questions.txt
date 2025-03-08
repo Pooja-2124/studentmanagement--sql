@@ -1,0 +1,26 @@
+# studentmanagement--sql
+🔹 Basic Queries
+1️⃣ Retrieve all details of students.
+2️⃣ Get the list of courses offered.
+3️⃣ Find the names and emails of all faculty members.
+4️⃣ List all enrollments with student names and course names.
+5️⃣ Find the assignments for a specific course (e.g., "Database Management Systems").
+
+🔹 Intermediate Queries
+6️⃣ Count the number of students enrolled in each course.
+7️⃣ Retrieve students who got an 'A' grade.
+8️⃣ Find faculty members who teach Computer Science courses.
+9️⃣ Show students and their enrolled courses, including those who are not enrolled in any course.
+🔟 List assignments that are due after March 15, 2024.
+
+🔹 Advanced Queries
+1️⃣1️⃣ Find students who are enrolled in more than one course.
+1️⃣2️⃣ Retrieve courses that have no students enrolled.
+1️⃣3️⃣ Find the most popular course (course with the highest number of enrollments).
+1️⃣4️⃣ Get the student who has the highest number of enrollments.
+1️⃣5️⃣ Find students who are not enrolled in any course.
+Retrieve the latest assignment deadlines per course.
+Count the number of students enrolled in each course.
+Find faculty members who teach Computer Science courses.
+Find the most popular course (course with the highest number of enrollments).
+Get the student who has the highest number of enrollments.
